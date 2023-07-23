@@ -1,1 +1,1 @@
-# Python-Dimaz
+# I love math
